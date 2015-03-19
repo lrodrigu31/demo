@@ -1,2 +1,5 @@
 # demo
-Demo project
+Developed by
+	- Openclick community 
+	- Technoide 
+
