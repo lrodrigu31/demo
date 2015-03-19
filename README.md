@@ -1,5 +1,6 @@
 # demo
 Developed by
 	- Openclick community 
-	- Technoide 
+	- Technoide teams
+@
 
